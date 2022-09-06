@@ -21,4 +21,4 @@ In order to accomplish the changes described, the following files of the dtdetec
     /dt-detector/src/edu/washington/cs/dt/util/TestExecUtils.java
     /dt-detector/src/edu/washington/cs/dt/util/TestRunnerWrapper.java
     /dt-detector/src/edu/washington/cs/dt/util/TestRunnerWrapperFileInputs.java
-    /dt-detector/src/edu/washington/cs/dt/main/ImpactMain.java  
+    /dt-detector/src/edu/washington/cs/dt/main/ImpactMain.java   
