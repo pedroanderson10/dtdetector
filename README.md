@@ -10,7 +10,7 @@ pages for more information about how to use the dtdetector.
 
 This version of the dtdetector differs from the original one in two important ways.
 1. Can output the time each test took to execute. These changes allowed us 
-to create test parallelization orders based on the time tests took to execute.
+to create test parallelization orders based on the time tests took to execute. 
 2. This version no longer hangs when running tests that spawns new threads but does not
 kill the threads.
 
