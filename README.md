@@ -3,7 +3,7 @@ This project is a modified version of DependentTestDetector (dtdetector) found a
 The version present in the repository is from October 3rd, 2013 revision number 454.
 
 Please visit the 
-[User manual](https://github.com/winglam/dtdetector/wiki/User-manual) 
+[User manual](https://github.com/winglam/dtdetector/wiki/User-manual)  
 and 
 [BuiltInTools](https://github.com/winglam/dtdetector/wiki/BuiltInTools) 
 pages for more information about how to use the dtdetector.
