@@ -1,4 +1,4 @@
-This project is a modified version of DependentTestDetector (dtdetector) found at our 
+This project is a modified version of DependentTestDetector (dtdetector) found at our  
 [testisolation repository](https://code.google.com/p/testisolation).
 The version present in the repository is from October 3rd, 2013 revision number 454.
 
